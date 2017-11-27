@@ -1,0 +1,14 @@
+//- 
+    Defines <ng-kit-weight-unit-input> template
+ul.list-inline
+    li(
+        ng-repeat="option in weightUnitOptions track by $index"
+    )
+        label.radio-inline
+            input(
+                type="radio"
+                name="weight-unit"
+                ng-value="option.value"
+                ng-model="$parent.value"
+            )
+            | {{option.name}}

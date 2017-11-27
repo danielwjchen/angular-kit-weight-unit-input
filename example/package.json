@@ -1,0 +1,18 @@
+{
+  "name": "angular-kit-weight-unit-input-example",
+  "version": "1.0.0",
+  "description": "An example shows how to use the <ng-kit-weight-unit-input> directive.",
+  "main": "index.js",
+  "keywords": [
+    "angular",
+    "bootstrap"
+  ],
+  "author": "dchen@inquiresimplicity.com",
+  "license": "ISC",
+  "dependencies": {
+    "angular-kit-weight-unit-input": "file:..",
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.2",
+    "pug": "^2.0.0-rc.4"
+  }
+}
