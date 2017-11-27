@@ -1,5 +1,5 @@
 /**
- * Defines HangarA.com GruntJS tasks.
+ * Defines ng-kit.weight-unit-input GruntJS tasks.
  */
 'use strict';
 
