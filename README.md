@@ -1,5 +1,5 @@
 # Angular Kit Weight Unit Input
-`<ng-kit-weight-unit-input> is an angular directive built with Bootstrap 3.
+`<ng-kit-weight-unit-input>` is an angular directive built with Bootstrap 3.
 
 ## Development
 To create a environment from scratch, install all the following dependencies.
